@@ -10,5 +10,5 @@ import Foundation
 struct Colours {
     var main: UIColor = .white
     var contrast: UIColor = .white
-    var
+
 }
